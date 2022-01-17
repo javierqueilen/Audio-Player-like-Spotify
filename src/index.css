@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: DarkViolet;
+  font-size: 20px;
+  font-weight:bold;
+}
+.list-group-item {
+  background-color: Gainsboro;
+  cursor: pointer;
+}
+.btn-sm{
+  background-color: Gainsboro;
+  color: DarkViolet;
+  font-size: 30px;
+  font-weight:bold;
+  border-radius: 5px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
